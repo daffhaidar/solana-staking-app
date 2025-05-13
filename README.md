@@ -6,8 +6,6 @@
 
 A modern, user-friendly web application for staking SOL tokens on the Solana blockchain. Built with React, TypeScript, and Solana Web3.js.
 
-![Solana Staking App Preview](https://img.shields.io/badge/Preview-Available%20on%20Devnet-brightgreen)
-
 ## ✨ Features
 
 - **Wallet Integration**: Connect with Phantom, Solflare, and other Solana wallets
@@ -113,15 +111,6 @@ yarn build
 ```
 
 The optimized production build will be created in the `build` folder.
-
-## 📱 Screenshots
-
-<details>
-<summary>Click to expand screenshots</summary>
-
-*Screenshots will be added here*
-
-</details>
 
 ## 🤝 Contributing
 
